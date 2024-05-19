@@ -4,7 +4,6 @@ import nltk
 from nltk.tokenize import word_tokenize
 from collections import defaultdict
 
-# Ensure you have the necessary NLTK resources
 nltk.download('punkt')
 
 # Function to fetch data from the API
